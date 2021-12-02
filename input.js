@@ -1,3 +1,4 @@
+const { UPKEY, LEFTKEY, DOWNKEY, RIGHTKEY } = require('./constants.js');
 const msg = "Say: ";
 const hello = "Hello there!";
 
